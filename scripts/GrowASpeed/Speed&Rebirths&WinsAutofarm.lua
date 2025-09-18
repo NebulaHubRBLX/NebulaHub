@@ -18,13 +18,13 @@ RunService.Heartbeat:Connect(function()
 end)
 
 --// Speed & Rebirth
-local IncreaseSpeed_upvr = game:GetService("ReplicatedStorage"):WaitForChild("IncreaseSpeed")
+local IncreaseSpeed_upvr = ReplicatedStorage:WaitForChild("IncreaseSpeed")
 local rebirth_vlr = game:GetService("ReplicatedStorage").RebirthEvent
-
-while true do
-	IncreaseSpeed_upvr:FireServer()
-	rebirth_vlr:FireServer()
-	task.wait(0)
+task.spawn(function()
+	while true do
+		IncreaseSpeed_upvr:FireServer()
+		rebirth_vlr:FireServer()
+		task.wait(0)
 	end
 end)
 
