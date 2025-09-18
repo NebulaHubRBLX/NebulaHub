@@ -1,10 +1,13 @@
-# 🌌 NebulaHub - Roblox ScriptHub
+# 🌌 NebulaHub — Roblox ScriptHub
 
-Welcome to **NebulaHub**, A Roblox ScriptHub containing scripts, assets, and resources for use.
+**Author:** NEBULAHUB (not providing real name since there are records of my doxxes 👍)
+**Repository purpose:** Store, maintain, and serve scripts/assets for NebulaHub. Users should run NebulaHub via the official loadstring(s) only.
 
 ---
 
-## ⚡ Usage
+## 🔌 Using NebulaHub (example)
+Run the loader in an executor or script environment:
 
-To use NebulaHub in your game/executor, simply go through the repository folders and find the script you would like!
-If we do not have the script of your liking, please contact snoiderahama@gmail.com with the script description and what game the script is used in.
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NebulaHubRBLX/NebulaHub/main/Loader.lua"))()
+```
