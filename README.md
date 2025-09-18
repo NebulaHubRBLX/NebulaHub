@@ -1,6 +1,6 @@
 # 🌌 NebulaHub — Roblox ScriptHub
 
-**Author:** NebulaHub (not providing real name since there are records of my doxxes 👍)  
+**Author:** NebulaHub (not providing real name since there are records of my doxxes 👍)  doxxes as in i've been doxxed 6 times
 **Repository purpose:** Store, maintain, and serve scripts/assets for NebulaHub. Users should run NebulaHub scripts via **raw-file loadstrings** that point at files inside this repo (no central loader file).
 
 ---
