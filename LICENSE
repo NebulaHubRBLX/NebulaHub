@@ -1,17 +1,37 @@
-NebulaHub License.
-
+NebulaHub License — All Rights Reserved
 Copyright (c) 2025 NEBULAHUB
 
-All rights reserved.
+Last updated: September 18, 2025
 
-You are allowed to:
-- Use the provided scripts and assets through the official NebulaHub loadstring(s) for personal use within Roblox.
+SUMMARY
+You MAY use the scripts and assets contained in this repository strictly by calling the official NebulaHub loader(s) (the provided loadstring URLs). You MAY NOT redistribute, rehost, decompile, leak, modify, or otherwise make available the original scripts or assets to third parties in any form unless you have explicit written permission from the copyright holder.
 
-You are NOT allowed to:
-- Redistribute, reupload, modify, or share these scripts or assets outside of NebulaHub.
-- Claim ownership or remove credits.
-- Use this repository or its contents for commercial purposes.
+DEFINITIONS
+- "Repository" means this GitHub repository and its contents (files, scripts, assets).
+- "Loader / loadstring" means the official loader URLs provided by the repository owner that fetch and execute the code at runtime (for example: loadstring(game:HttpGet("<raw-url>"))()).
+- "Use" means executing the loader/loadstring in a Roblox environment for personal, non-commercial gameplay use.
+- "Distribute" or "Redistribute" means copying, reposting, reuploading, sharing, publishing, or otherwise making available the code or assets (raw or modified) to others outside the official loader.
 
-Any violation of these terms will result in removal of access and potential DMCA takedown.
+GRANT OF RIGHTS
+Subject to the terms below, the copyright owner grants you a limited, revocable, non-transferable right to use the Repository's contents by executing the official NebulaHub loader(s) while running Roblox. This right does NOT include the right to copy, store, mirror, or redistribute the code or assets outside of the official loader.
 
-For permissions beyond this license, contact the repository owner.
+PROHIBITIONS (You MUST NOT)
+1. Redistribute, rehost, mirror, repost, or otherwise publicly share the code or assets (raw or modified) hosted in this repository.
+2. Convert, decompile, reverse-engineer, or attempt to remove any protections applied to the code, including trying to reconstruct source from compiled/obfuscated code for the purpose of redistribution.
+3. Remove or alter author/credit notices contained in the code or assets.
+4. Use the code or assets for commercial purposes, resale, or in a product you charge for without express written permission.
+5. Use the code to create a competing script hub, service, or product that distributes this repository’s content.
+
+ENFORCEMENT & REMEDIES
+Violations of these terms are a breach of copyright and this license. The repository owner may:
+- Revoke access to loader URLs.
+- Seek DMCA takedown of rehosted content.
+- Pursue any other legal remedy available.
+
+LIMITATION OF LIABILITY
+The code is provided "AS IS". The copyright owner is not liable for any damages arising from your use of the code.
+
+PERMISSIONS BEYOND THE LICENSE
+Requests for permission (exceptions, commercial licensing, redistribution agreements) should be sent to: `username-or-email-here` (replace with your contact method).
+
+BY USING OR EXECUTING THE LOADER YOU AGREE TO BE BOUND BY THIS LICENSE.
