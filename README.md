@@ -5,7 +5,7 @@
 </p>
 
 ## 🔭 What is NebulaHub?
-NebulaHub is a compact Roblox ScriptHub intended as a centralized place to load and run pre-made scripts. It ships with a simple loader and a minimal interface so you can quickly get started.
+NebulaHub is a compact Roblox ScriptHub intended as a place to load and run pre-made scripts. It ships with a simple loader and a minimal interface so you can quickly get started.
 
 ## ⚠️ Requirements
 - A **compatible Roblox executor** is required to run NebulaHub.  
