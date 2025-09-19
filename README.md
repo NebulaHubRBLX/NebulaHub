@@ -1,4 +1,5 @@
 # 🌌 NebulaHub — Roblox ScriptHub
 
 ## 🔌Loader.lua
-nvm bro
+```lua
+print("Hello, World!")
