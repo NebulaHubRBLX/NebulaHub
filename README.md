@@ -1,6 +1,4 @@
-# NebulaHub
-
-<p align="center">
+<p align="left">
   <img src="https://dirtyw0rk.neocities.org/Logo&Text.png" alt="NebulaHub Logo" width="200"/>
 </p>
 
