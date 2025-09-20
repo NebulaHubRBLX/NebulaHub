@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://dirtyw0rk.neocities.org/Logo&Text.png" alt="NebulaHub Logo" width="200"/>
+  <img src="https://dirtyw0rk.neocities.org/Logo&Text.png" alt="NebulaHub Logo" width="300"/>
 </p>
 
 ## 🔭 What is NebulaHub?
