@@ -1,7 +1,7 @@
 # NebulaHub
 
 <p align="center">
-  <img src="https://dirtyw0rk.neocities.org/Untitled_design__18_-removebg-preview.png" alt="NebulaHub Logo" width="200"/>
+  <img src="https://dirtyw0rk.neocities.org/Logo&Text.png" alt="NebulaHub Logo" width="200"/>
 </p>
 
 ## 🔭 What is NebulaHub?
